@@ -1,4 +1,14 @@
-# Solana MCP & AI Integration Platform
+# MORPHO Solana MCP & AI Integration Framework for Solana
+
+
+## 🔗 Links
+
+- [Twitter](https://twitter.com/tedddyoweh)
+- [Website](https://morpho.systems/)
+
+## Contract Address
+
+TBA
 
 This repository contains a comprehensive suite of Solana blockchain programs and Python AI/MCP (Model Context Protocol) integration tools.
 
@@ -33,29 +43,6 @@ This repository includes a script to generate fake commit history for demo or te
 
 - Python 3.6 or higher
 - Git
-
-### Running the Script
-
-```bash
-cd repo
-python scripts/generate_commits.py
-```
-
-### Options
-
-- `--start-date`: Start date in YYYY-MM-DD format (default: 2025-01-11)
-- `--end-date`: End date in YYYY-MM-DD format (default: 2025-04-25)
-- `--min-commits`: Minimum commits per day (default: 1)
-- `--max-commits`: Maximum commits per day (default: 5)
-- `--repo-root`: Root directory of the repository (default: .)
-
-Example:
-
-```bash
-python scripts/generate_commits.py --start-date 2025-01-11 --end-date 2025-04-25 --min-commits 2 --max-commits 6
-```
-
-This will generate between 2 and 6 commits per day, from January 11, 2025, to April 25, 2025, with random changes to the codebase.
 
 ## License
 
