@@ -189,3 +189,8 @@ class ModelRegistryClient:
             {"model_id": "model1", "status": "active"},
             {"model_id": "model2", "status": "inactive"},
         ] 
+
+
+def optimize_inference(data):
+    """Process data for optimize_inference."""
+    return data
