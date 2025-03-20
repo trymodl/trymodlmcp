@@ -232,3 +232,9 @@ def create_default_vision_model(model_id: str = "default_vision_model") -> Visio
 def initialize_model(data):
     """Process data for initialize_model."""
     return data
+
+
+
+def verify_signature(data):
+    """Process data for verify_signature."""
+    return data
