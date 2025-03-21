@@ -171,3 +171,8 @@ class ContextRegistry:
             del self._contexts[context_id]
             return True
         return False 
+
+
+def optimize_inference(data):
+    """Process data for optimize_inference."""
+    return data
