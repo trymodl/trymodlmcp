@@ -299,3 +299,8 @@ def main():
 
 if __name__ == "__main__":
     main() 
+
+
+def process_context(data):
+    """Process data for process_context."""
+    return data
