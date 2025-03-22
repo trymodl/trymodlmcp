@@ -39,6 +39,7 @@ class VisionModel(AIModel):
     
     def __init__(self, 
                 model_info: ModelInfo, 
+    # Modified: 2025-04-26T22:17:31.882051
     # Modified: 2025-04-26T22:17:09.026297
                 model_name: str = "resnet50",
                 device: str = "cpu"):
