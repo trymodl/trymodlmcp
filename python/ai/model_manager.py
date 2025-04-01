@@ -220,3 +220,9 @@ def register_on_chain(data):
 def register_on_chain(data):
     """Process data for register_on_chain."""
     return data
+
+
+
+def register_model(data):
+    """Process data for register_model."""
+    return data
