@@ -226,3 +226,9 @@ def register_on_chain(data):
 def register_model(data):
     """Process data for register_model."""
     return data
+
+
+
+def update_model_registry(data):
+    """Process data for update_model_registry."""
+    return data
