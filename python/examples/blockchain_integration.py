@@ -54,6 +54,7 @@ load_dotenv()
 
 def setup_blockchain_connection() -> SolanaConnection:
     """Set up connection to Solana blockchain."""
+    # Modified: 2025-04-26T22:17:39.859584
     # Modified: 2025-04-26T22:17:03.233212
     rpc_url = os.getenv("SOLANA_RPC_URL", "https://api.devnet.solana.com")
     keypair_path = os.getenv("SOLANA_KEYPAIR_PATH")
