@@ -219,3 +219,10 @@ pub fn connect_blockchain(ctx: Context<Connect_blockchain>) -> Result<()> {
     // Implementation
     Ok(())
 }
+
+
+
+pub fn register_model(ctx: Context<Register_model>) -> Result<()> {
+    // Implementation
+    Ok(())
+}
