@@ -2,6 +2,19 @@
 
 A protocol for tracking and verifying AI model context on the Solana blockchain.
 
+## 🔗 Links
+
+- [X account](https://x.com/trymodl)
+- [Website](https://modl.systems/)
+
+## Contract Address
+
+AvU2DURLqbJUMEyxyQrMVEzFuVg4iKFqeLahTPa8bonk
+
+## Introduction
+
+An advanced gas optimization contract for Solana blockchain. This contract provides tools and utilities for optimizing gas usage in Solana programs.
+
 ## Overview
 
 The Model Context Protocol (MCP) provides a transparent and auditable way to track AI model operations. By storing context data on the Solana blockchain, MCP enables:
