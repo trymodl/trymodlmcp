@@ -1,6 +1,15 @@
-# Shift Protocol
+# Model Context Protocol (MCP)
 
-**Shift enables a fully decentralised, validator-less, truly peer-to-peer transactional model.**
+A protocol for tracking and verifying AI model context on the Solana blockchain.
+
+## Overview
+
+The Model Context Protocol (MCP) provides a transparent and auditable way to track AI model operations. By storing context data on the Solana blockchain, MCP enables:
+
+- **Transparency**: Public verification of AI model inputs and outputs
+- **Auditability**: Historical record of model operations
+- **Trust**: Cryptographic verification of model usage
+- **Accountability**: Clear record of model behavior
 
 ## 🚀 Key Features
 
@@ -53,8 +62,6 @@ This repository contains:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/shift-protocol.git
-cd shift-protocol
 
 # Install dependencies
 npm install
